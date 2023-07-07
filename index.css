@@ -1,0 +1,12 @@
+#MoreWoofs{
+    border-radius: 5px;
+    color:blue;
+    font-weight:700;
+    padding:10px 15px;
+    background-color: burlywood;
+    margin-top:10px;
+}
+
+body{
+    padding-left:3px;
+}
